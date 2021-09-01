@@ -8,7 +8,7 @@ Kayssar Amir Colares Sioufi
 
 ## Co-autor
 
-Wellington Wagner F. Sarmento
+Wellington Wagner F. Sarmento e colegas do grupo de Projeto Integrado 1.
 
 ## Licença
 
